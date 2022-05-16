@@ -1,6 +1,33 @@
 ### Hi there 👋
 ### Monday, 16 May, 2022
 
+## On Gatsby Error
+After gatsby-cli installation, I ran into an error when I input the gatsby command in Powershell:
+```
+cannot be loaded because running scripts is disabled on
+this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:1
+```
+From the link provided by the error message, there was something about the Execution Policy. So I entered the command below and got undefined...
+```
+ Get-ExecutionPolicy -List
+
+        Scope ExecutionPolicy
+        ----- ---------------
+MachinePolicy       Undefined
+   UserPolicy       Undefined
+      Process       Undefined
+  CurrentUser       Undefined
+ LocalMachine       Undefined
+ ```
+ 
+ So the solution was to Set the execution policy command...
+ ```
+ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+ ```
+ 
+## On Git
+I don't know why I copied the instruction below from a new repository.
 …or create a new repository on the command line
 echo "# headsink.github.io" >> README.md
 ```
