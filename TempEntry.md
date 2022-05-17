@@ -1,0 +1,10 @@
+# Temporary entry before being transfered to a real blog
+## Tuesday, 17 May 2022
+
+I guess I should be researching on [building a hive blog front end website with nextjs](https://medium.com/@chrisgarrett/building-a-hive-blog-front-end-website-with-nextjs-764b5537284e) and understand the reason on [why someone build a custom hive front end](https://peakd.com/hive-119826/@makerhacks/custom-hive-frontends).
+
+Below are my references:
+1. [building a hive blog front end website with nextjs](https://medium.com/@chrisgarrett/building-a-hive-blog-front-end-website-with-nextjs-764b5537284e)
+2. [Why I Am Building Custom Hive Front-Ends, And You Should Too](https://peakd.com/hive-119826/@makerhacks/custom-hive-frontends)
+3. [Getting Hive Content — Building a Hive Blog Front-End Website with NextJS Part 2](https://medium.com/@chrisgarrett/getting-hive-content-building-a-hive-blog-front-end-website-with-nextjs-part-2-43c32437b1cf)
+4. [Hive Blockchain and WordPress — Best of All Worlds](https://medium.com/@chrisgarrett/hive-blockchain-and-wordpress-best-of-all-worlds-b467188b410d)
