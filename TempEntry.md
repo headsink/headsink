@@ -6,6 +6,8 @@ Below are how to 'embed' YouTube in Github MD...
 ```
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
+
+### Should checkout [HiveJS Gitlab Repo](https://gitlab.syncad.com/hive/hive-js)
 ## Tuesday, 17 May 2022
 
 I guess I should be researching on [building a hive blog front end website with nextjs](https://medium.com/@chrisgarrett/building-a-hive-blog-front-end-website-with-nextjs-764b5537284e) and understand the reason on [why someone build a custom hive front end](https://peakd.com/hive-119826/@makerhacks/custom-hive-frontends).
