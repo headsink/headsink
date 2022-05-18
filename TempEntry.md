@@ -1,6 +1,7 @@
 # Temporary entry before being transfered to a real blog
 ## Thursday, 19 May 2022
-Should always check out [Setting up github repo for gatsby](https://www.gatsbyjs.com/docs/tutorial/part-1/#set-up-a-github-repo-for-your-site)!
+- Should always check out [Setting up github repo for gatsby](https://www.gatsbyjs.com/docs/tutorial/part-1/#set-up-a-github-repo-for-your-site)!
+- For cool icon/badges for Github, check out [Markdown Badges](https://ileriayo.github.io/markdown-badges/)
 
 ## Wednesday, 18 May 2022
 [![Watch the video](https://img.youtube.com/vi/YZR6P6Q0tmc/default.jpg)](https://www.youtube.com/watch?v=YZR6P6Q0tmc)
