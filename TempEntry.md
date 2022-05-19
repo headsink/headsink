@@ -1,4 +1,7 @@
 # Temporary entry before being transfered to a real blog
+## Friday, 20 May 2022
+May there be no hiatus away from the Internet, my computer and updates in technology.
+
 ## Thursday, 19 May 2022
 - Should always check out [Setting up github repo for gatsby](https://www.gatsbyjs.com/docs/tutorial/part-1/#set-up-a-github-repo-for-your-site)!
 - For cool icon/badges for Github, check out [Markdown Badges](https://ileriayo.github.io/markdown-badges/)
