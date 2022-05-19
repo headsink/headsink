@@ -1,6 +1,8 @@
 # Temporary entry before being transfered to a real blog
 ## Friday, 20 May 2022
 May there be no hiatus away from the Internet, my computer and updates in technology.
+### Lesson on git with VSCode
+Next time I shouldn't put password when I generate an SSH key which caused the VSCode Git Plugin unable to sync!
 
 ## Thursday, 19 May 2022
 - Should always check out [Setting up github repo for gatsby](https://www.gatsbyjs.com/docs/tutorial/part-1/#set-up-a-github-repo-for-your-site)!
