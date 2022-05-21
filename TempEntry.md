@@ -11,6 +11,11 @@ npm install -g eslint
 
 Next will be installing it in ReactJS or other framework and editing the setting and all...
 
+### How to check your ReactJS version?
+```
+npm view react version
+```
+
 ## Friday, 20 May 2022
 May there be no hiatus away from the Internet, my computer and updates in technology.
 ### Lesson on git with VSCode
