@@ -2,6 +2,15 @@
 ## Saturday, 21 May 2022
 Had almost a whole day rest, I am very fresh.
 
+Intalled [Eslint](https://eslint.org/) with npm after watching [a tutorial on eslint](https://www.jsmastery.pro/lecture-eslint-tips?ck_subscriber_id=1738210642&utm_source=convertkit&utm_medium=email&utm_campaign=Here%27s+the+video+I+promised%20-%208219947) by [JSM](https://www.jsmastery.pro/)
+
+Installed it globally..
+```
+npm install -g eslint
+```
+
+Next will be installing it in ReactJS or other framework and editing the setting and all...
+
 ## Friday, 20 May 2022
 May there be no hiatus away from the Internet, my computer and updates in technology.
 ### Lesson on git with VSCode
