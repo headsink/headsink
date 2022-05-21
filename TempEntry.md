@@ -1,4 +1,10 @@
 # Temporary entry before being transfered to a real blog
+## Sunday, 22 May 2022
+[![Watch the video](https://img.youtube.com/vi/bMknfKXIFA8/default.jpg)](https://www.youtube.com/watch?v=bMknfKXIFA8)<BR>
+[React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://www.youtube.com/watch?v=bMknfKXIFA8)
+
+Reminder: Check YouTube Watch Later and History later.
+  
 ## Saturday, 21 May 2022
 Had almost a whole day rest, I am very fresh.
 
