@@ -1,4 +1,7 @@
 # Temporary entry before being transfered to a real blog
+## Saturday, 21 May 2022
+Had almost a whole day rest, I am very fresh.
+
 ## Friday, 20 May 2022
 May there be no hiatus away from the Internet, my computer and updates in technology.
 ### Lesson on git with VSCode
