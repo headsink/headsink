@@ -2,6 +2,8 @@
 ## Monday, 23 May 2022
 Should check out [SHIRYO](https://shiryo.com/) P2E Game. For now no gamplay yet, but the starter pack cost around 50 MATIC.
 
+Still deciding whethere to use [Astro](https://astro.build/), Vue, React or combinations of all.
+
 As we can observe from this journal, I am in a scattered brain mode.
 ## Sunday, 22 May 2022
 [![Watch the video](https://img.youtube.com/vi/bMknfKXIFA8/default.jpg)](https://www.youtube.com/watch?v=bMknfKXIFA8)<BR>
