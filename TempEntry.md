@@ -1,6 +1,8 @@
 # Temporary entry before being transfered to a real blog
 ## Tuesday, 24 May 2022
-
+### New Sites Discovery
+1. [Simple Icons](https://simpleicons.org/) -- 2255 Free SVG icons for popular brands
+2. [HyperUI](https://www.hyperui.dev/) -- Free Open Source Tailwind CSS Components
 When I add tailwind to Astro...
 ```
 Astro will make the following changes to your config file:
