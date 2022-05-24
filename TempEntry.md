@@ -1,4 +1,48 @@
 # Temporary entry before being transfered to a real blog
+## Tuesday, 24 May 2022
+
+When I add tailwind to Astro...
+```
+Astro will make the following changes to your config file:
+
+ ╭ astro.config.mjs ─────────────────────────────╮
+ │ import { defineConfig } from 'astro/config';  │
+ │                                               │
+ │ import tailwind from "@astrojs/tailwind";     │
+ │                                               │
+ │ // https://astro.build/config                 │
+ │ export default defineConfig({                 │
+ │   integrations: [tailwind()]                  │
+ │ });                                           │
+ ╰───────────────────────────────────────────────╯
+
+√ Continue? ... yes
+
+  Astro will run the following command:
+  If you skip this step, you can always run it yourself later
+
+ ╭───────────────────────────────────╮
+ │ yarn add --dev @astrojs/tailwind  │
+ ╰───────────────────────────────────╯
+
+√ Continue? ... yes
+✔ Installing dependencies...
+
+  Astro will generate a minimal ./tailwind.config.cjs file.
+
+√ Continue? ... yes
+  
+   success  Added the following integration to your project:
+  - @astrojs/tailwind
+Done in 86.14s.
+```
+
+What is the command??
+```
+yarn astro add tailwind
+```
+taken from [official Tailwind Astro integration Repo](https://github.com/withastro/astro/tree/main/packages/integrations/tailwind)
+
 ## Monday, 23 May 2022
 Should check out [SHIRYO](https://shiryo.com/) P2E Game. For now no gamplay yet, but the starter pack cost around 50 MATIC.
 
