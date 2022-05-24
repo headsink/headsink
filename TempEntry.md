@@ -1,4 +1,7 @@
 # Temporary entry before being transfered to a real blog
+## Wednesday, 25 May 2022
+### Tutorial to watch
+1. [Build a Static Site with Figma & Astro #7 - CSS Setup & Open Props](https://www.youtube.com/watch?v=GBrYC49gYgc&list=PL4cUxeGkcC9hZm9NYpd4G-jhoeEk0ls--&index=7)
 ## Tuesday, 24 May 2022
 ### New Sites Discovery
 1. [Simple Icons](https://simpleicons.org/) -- 2255 Free SVG icons for popular brands
