@@ -1,5 +1,18 @@
 # Temporary entry before being transfered to a real blog
 ## Wednesday, 25 May 2022
+### Installed [Simple-Icons](https://github.com/simple-icons/simple-icons) to Astro
+I was easy, just enter the command line inside our Astro directory..
+```
+npm install simple-icons
+```
+What kind of magic was there I don't understand yet, but the installer detected Astro and add the dependecies in the package.json file...
+```
+"dependencies": {
+    "simple-icons": "^6.23.0"
+  }
+```
+next will be experimenting simple-icons inside of an Astro component.
+
 ### Tutorial to watch
 1. [Build a Static Site with Figma & Astro #7 - CSS Setup & Open Props](https://www.youtube.com/watch?v=GBrYC49gYgc&list=PL4cUxeGkcC9hZm9NYpd4G-jhoeEk0ls--&index=7)
 ## Tuesday, 24 May 2022
