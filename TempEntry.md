@@ -1,6 +1,12 @@
 # Temporary entry before being transfered to a real blog
 ## Sunday, 29 May 2022
 ## On Note Taking
+### Dendron
+[![Note taking inside of VS Code](https://img.youtube.com/vi/dW6m4_O0qvQ/default.jpg)](https://www.youtube.com/watch?v=dW6m4_O0qvQ) **Note taking inside of VS Code**
+
+*"We don't have tools to manage human knowledge.".*<BR /> 
+Key aspect of information retrieval system: Input, retrievel(out) and maintanence.
+
 ### Pick a Notes App: Your Notetaking Style
 
 [![Pick a Notes App: Your Notetaking Style](https://img.youtube.com/vi/f3dDVtJ2sec/default.jpg)](https://www.youtube.com/watch?v=f3dDVtJ2sec)
