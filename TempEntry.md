@@ -1,13 +1,24 @@
 # Temporary entry before being transfered to a real blog
 ## Sunday, 29 May 2022
-### On Note Taking
-[![Pick a Notes App: Your Notetaking Style](https://img.youtube.com/vi/f3dDVtJ2sec/default.jpg)](https://www.youtube.com/watch?v=f3dDVtJ2sec) Pick a Notes App: Your Notetaking Style
+## On Note Taking
+### Pick a Notes App: Your Notetaking Style
 
-Archetype of Note Taker:
+[![Pick a Notes App: Your Notetaking Style](https://img.youtube.com/vi/f3dDVtJ2sec/default.jpg)](https://www.youtube.com/watch?v=f3dDVtJ2sec)
+
+#### Archetype of Note Taker:
 1. Architect
 2. Garderner
 3. Librarian
 4. Student
+
+
+### 75% of Notetakers Use These 4 Apps | Pick a Notes App
+[![75% of Notetakers Use These 4 Apps | Pick a Notes App](https://img.youtube.com/vi/WTg3fCr1WaY/default.jpg)](https://www.youtube.com/watch?v=WTg3fCr1WaY)
+
+### 68 Notes Apps, Only 1 for You - Features Breakdown 2022
+[![68 Notes Apps, Only 1 for You - Features Breakdown 2022](https://img.youtube.com/vi/OywdK-GIDnw/default.jpg)](https://www.youtube.com/watch?v=OywdK-GIDnw)
+
+
 
 ## Wednesday, 25 May 2022
 ### Installed [Simple-Icons](https://github.com/simple-icons/simple-icons) to Astro
