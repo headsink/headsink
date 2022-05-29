@@ -1,5 +1,6 @@
 # Temporary entry before being transfered to a real blog
 ## Monday, 30 May 2022
+- https://github.com/fhoehl/awesome-zettelkasten
 - https://christianheilmann.com/2021/02/19/a-code-snippet-to-scrape-all-headings-and-their-target-urls-from-a-markdown-generated-page/
 - [Markdown Link Check](https://github.com/tcort/markdown-link-check)
 - https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b
