@@ -1,4 +1,14 @@
 # Temporary entry before being transfered to a real blog
+## Sunday, 29 May 2022
+### On Note Taking
+[![Pick a Notes App: Your Notetaking Style](https://img.youtube.com/vi/f3dDVtJ2sec/default.jpg)](https://www.youtube.com/watch?v=f3dDVtJ2sec) Pick a Notes App: Your Notetaking Style
+
+Archetype of Note Taker:
+1. Architect
+2. Garderner
+3. Librarian
+4. Student
+
 ## Wednesday, 25 May 2022
 ### Installed [Simple-Icons](https://github.com/simple-icons/simple-icons) to Astro
 I was easy, just enter the command line inside our Astro directory..
