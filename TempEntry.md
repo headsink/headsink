@@ -18,7 +18,62 @@
 ### 68 Notes Apps, Only 1 for You - Features Breakdown 2022
 [![68 Notes Apps, Only 1 for You - Features Breakdown 2022](https://img.youtube.com/vi/OywdK-GIDnw/default.jpg)](https://www.youtube.com/watch?v=OywdK-GIDnw)
 
+Librarian
+Amplenote
+Devonthink - Amplenote for power user, file management app
+Supernotes - Collaborative notes
+Inkdrop - For software developer... Companion
+Nimbus Note - Evernote for Team
+Zotero - Capture References for research.. Mendeley
 
+Acrhitect - System Mindset
+Notion
+Craft - Like Notion but for Apple!
+Obsidian - For garderner to 
+Dendron - Obsidian for developer
+Walling - Stripdown version of Notion
+Microsoft Loop - Microsoft version of Notion
+Upnote
+Clover - Notion with more flexibility
+Bundled Note - Fun todo list
+
+Zettler
+TiddlyWiki
+Marginote
+Tinderbox
+The Brain app
+
+#### Apps for Garderner
+1. Roam Research
+2. Obsidian
+3. Logseq - Opensource Roam
+4. Mem - Minimalist Roam
+5. Athen Research - Logseq more polish
+6. Reflect - Roam that is simple/clean
+7. SAGA - Open Beta
+8. Tangent Note - Note Connector
+9. Weaveit - AI note
+10. Hypernote - Scribener
+
+#### Help
+1. Remnote - Space repittion
+2. Readwise - Greatway to aggregate note from elsewhere
+3. Napkin - Swarm of files that will appear
+4. Mymind
+5. Heptabase
+
+#### Student
+1. Apple Note
+2. Google Doc
+3. Keep
+4. Dropbox Paper
+5. Microsoft Words
+6. Notability
+7. Dynalist
+8. Nuclino - Wiki for Teens
+9. HackMD -Markdown
+10. Scrivener
+11. AI Writer
 
 ## Wednesday, 25 May 2022
 ### Installed [Simple-Icons](https://github.com/simple-icons/simple-icons) to Astro
