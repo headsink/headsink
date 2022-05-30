@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "markdown-link-extractor": "^4.0.1"
+  }
+}
