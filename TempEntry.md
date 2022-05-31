@@ -1,4 +1,6 @@
 # Temporary entry before being transfered to a real blog
+## Tuesday, 31 May 2022
+It seem [Mermaid-JS](https://github.com/mermaid-js/mermaid) was the easiest alternative for generating a tree graph compared to D3.
 ## Monday, 30 May 2022
 - https://github.com/fhoehl/awesome-zettelkasten
 - https://christianheilmann.com/2021/02/19/a-code-snippet-to-scrape-all-headings-and-their-target-urls-from-a-markdown-generated-page/
