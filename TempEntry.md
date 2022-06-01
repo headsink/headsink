@@ -1,4 +1,7 @@
 # Temporary entry before being transfered to a real blog
+## Wednesday, 1 June 2022
+- [Hive Developer Portal](https://developers.hive.io/)
+- [Hivesigner Documentation](https://docs.hivesigner.com/h/)
 ## Tuesday, 31 May 2022
 It seem [Mermaid-JS](https://github.com/mermaid-js/mermaid) was the easiest alternative for generating a tree graph compared to D3.
 ## Monday, 30 May 2022
