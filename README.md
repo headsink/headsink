@@ -1,5 +1,6 @@
 ### I'm not sure... 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=headsink&theme=nord_bright)
 
 ```mermaid
 stateDiagram-v2
