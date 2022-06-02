@@ -1,14 +1,18 @@
 'use strict';
 
-var markdownLinkCheck = require('markdown-link-check');
+const markdownLinkCheck = require('markdown-link-check');
+const { readFileSync } = require('fs');
+// const markdownLinkExtractor = require('markdown-link-extractor');
 
-markdownLinkCheck('README.md', function (err, results) {
-    if (err) {
-        console.error('Error', err);
-        return;
-    }
-    results.forEach(function (result) {
-        console.log('none');
-       // console.log(result.link);
+const markdown = readFileSync('README.md',{encoding: 'utf8'});
+markdownLinkCheck('', results => {
+   /* console.log('what' + err + results);
+        if (err) {
+            console.error('Error', err);
+            console.log('ERR');
+            return;
+        }*/
+        results.forEach(result => {
+                console.log('%s is %s', result.link, result.status);
+            });
     });
-});
