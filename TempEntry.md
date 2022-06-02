@@ -38,24 +38,24 @@ Key aspect of information retrieval system: Input, retrievel(out) and maintanenc
 ### 68 Notes Apps, Only 1 for You - Features Breakdown 2022
 [![68 Notes Apps, Only 1 for You - Features Breakdown 2022](https://img.youtube.com/vi/OywdK-GIDnw/default.jpg)](https://www.youtube.com/watch?v=OywdK-GIDnw)
 
-Librarian
-Amplenote
-Devonthink - Amplenote for power user, file management app
-Supernotes - Collaborative notes
-Inkdrop - For software developer... Companion
-Nimbus Note - Evernote for Team
-Zotero - Capture References for research.. Mendeley
+#### Librarian
+1. Amplenote
+2. Devonthink - Amplenote for power user, file management app
+3. Supernotes - Collaborative notes
+4. Inkdrop - For software developer... Companion
+5. Nimbus Note - Evernote for Team
+6. Zotero - Capture References for research.. Mendeley
 
-Acrhitect - System Mindset
-Notion
-Craft - Like Notion but for Apple!
-Obsidian - For garderner to 
-Dendron - Obsidian for developer
-Walling - Stripdown version of Notion
-Microsoft Loop - Microsoft version of Notion
-Upnote
-Clover - Notion with more flexibility
-Bundled Note - Fun todo list
+#### Acrhitect - System Mindset
+1. Notion
+2. Craft - Like Notion but for Apple!
+3. Obsidian - For garderner to
+4. Dendron - Obsidian for developer
+5. Walling - Stripdown version of Notion
+6. Microsoft Loop - Microsoft version of Notion
+7. Upnote
+8. Clover - Notion with more flexibility
+9. Bundled Note - Fun todo list
 
 Zettler
 TiddlyWiki
