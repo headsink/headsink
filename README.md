@@ -1,4 +1,5 @@
 ### I'm not sure... 👋
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/headsink/headsink)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=headsink&theme=nord_bright)
 
