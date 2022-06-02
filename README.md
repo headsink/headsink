@@ -1,6 +1,7 @@
-### I'm not sure... 👋
+# I'm not sure... 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/headsink?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/headsink/headsink)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/headsink/headsink)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=headsink&theme=nord_bright)
 
 ```mermaid
