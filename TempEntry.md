@@ -2,7 +2,7 @@
 
 ## Friday, 3 June 2022
 
-- [Github Action Notes](public_notes\GitHubActions.md)
+- [Github Action Notes](.\public_notes\GitHubActions.md)
 ## Wednesday, 1 June 2022
 - [Hive Developer Portal](https://developers.hive.io/)
 - [Hivesigner Documentation](https://docs.hivesigner.com/h/)
