@@ -1,5 +1,9 @@
 # Temporary entry before being transfered to a real blog
 
+## Sunday, 5 June 2022
+
+- [Table Generator](https://tablesgenerator.com/markdown_tables) -- this is a very useful site to make table
+- [Learning ReactJS Notes](./public_notes/LearningReactJS.md)
 ## Friday, 3 June 2022
 
 - [Github Action Notes](./public_notes/GitHubActions.md)
