@@ -1,5 +1,7 @@
 # Temporary entry before being transfered to a real blog
+## Tuesday, 7 June 2022
 
+- [NPM Cheat Sheet](public_notes/npmCheatSheet.md)
 ## Sunday, 5 June 2022
 
 - [Table Generator](https://tablesgenerator.com/markdown_tables) -- this is a very useful site to make table
