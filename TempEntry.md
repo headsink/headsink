@@ -1,4 +1,6 @@
 # Temporary entry before being transfered to a real blog
+
+Go to [Later Post](TempEntry2.md)
 ## Tuesday, 7 June 2022
 - [Daisy UI](https://github.com/saadeghi/daisyui) - Another cool template/components for Tailwind
 - [Mamba UI](https://mambaui.com/) - Dark Tailwind UI
