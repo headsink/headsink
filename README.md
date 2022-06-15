@@ -1,8 +1,6 @@
 # Hi frens... 👋
 
-<!-- template -->
-I joined GitHub on `{{ f.date(REGISTRATION_DATE, {date:true}) }}`.
-I contributed to `{{REPOSITORIES_CONTRIBUTED_TO}}` repositories and made `{{COMMITS}}` commits
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/headsink?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/headsink/headsink)
