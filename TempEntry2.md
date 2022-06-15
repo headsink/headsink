@@ -5,7 +5,9 @@
 - [Beautify Github Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [What are GitHub Workflows?](https://jasonet.co/posts/what-are-github-workflows/)
 - [Github Action Marketplace - Metrics embed](https://github.com/marketplace/actions/metrics-embed)
-
+- [Blogpost list to Github Readme](https://youtu.be/ECuqb5Tv9qI?t=272)
+- [Update your GitHub README with GitHub actions ](https://www.youtube.com/watch?v=jVg-qkQ01lI)
+- [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
 # Sunday 12 June 2022
 
 ## DOT and Graphviz
