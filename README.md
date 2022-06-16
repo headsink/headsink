@@ -16,7 +16,7 @@
 <tbody>
   <tr>
     <td>
-    <pre><code class="language-mermaid">
+    <pre><code class="mermaid">
 %%{init: {'theme':'base'}}%%
         graph TD
           A[Christmas] -->|Get money| B(Go shopping)
