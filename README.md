@@ -1,12 +1,9 @@
 # Hi frens... 👋
 
-
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/headsink?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/headsink/headsink)
 ![GitHub last commit](https://img.shields.io/github/last-commit/headsink/headsink)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=headsink&theme=nord_bright)
-
 
 <table>
 <thead>
@@ -19,7 +16,7 @@
 <tbody>
   <tr>
     <td>
-    <pre class="mermaid"><code>
+    <pre><code class="language-mermaid">
 %%{init: {'theme':'base'}}%%
         graph TD
           A[Christmas] -->|Get money| B(Go shopping)
@@ -59,4 +56,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
