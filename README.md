@@ -19,7 +19,7 @@
 <tbody>
   <tr>
     <td>
-    ```mermaid
+    <pre class="mermaid"><code>
 %%{init: {'theme':'base'}}%%
         graph TD
           A[Christmas] -->|Get money| B(Go shopping)
@@ -35,7 +35,8 @@
             F
             G
           end
-```
+          </code>
+</pre>
 </td>
     <td>
     [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&cover_image=true&theme=default&bar_color=b14e5d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&redirect=true)
