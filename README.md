@@ -5,18 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/headsink/headsink)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=headsink&theme=nord_bright)
 
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-    <pre class="mermaid"><code>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&cover_image=true&theme=default&bar_color=b14e5d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&redirect=true)
+
+```mermaid
 %%{init: {'theme':'base'}}%%
         graph TD
           A[Christmas] -->|Get money| B(Go shopping)
@@ -32,21 +23,8 @@
             F
             G
           end
-          </code>
-</pre>
-</td>
-    <td>
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&cover_image=true&theme=default&bar_color=b14e5d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&redirect=true)
-    </td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+```
+
 
 - 🔭 I’m currently working on ... [something](oldentry.md)
 - 🌱 I’m currently learning ...
