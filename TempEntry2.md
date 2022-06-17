@@ -1,3 +1,11 @@
+# Friday 17 June 2022
+
+- [CoCreate-kanban](https://cocreate.app/docs/kanban)
+- Please check ReadME on [MongoDBExperiment](https://github.com/headsink/MongoDBExperiment/blob/master/README.md).
+- Don't forget to check out your first forked project from the [ORIGINAL SOURCE](https://github.com/dangoldin/twitter-archive-analysis)
+- Should sleep early and wake up early to work during the quiet hours.
+
+
 # Wednesday 15 June 2022
 
 - [The Road to React](https://github.com/the-road-to-learn-react)
