@@ -1,3 +1,10 @@
+# Saturday 18 June 2022
+
+- 1 BTC = $19,000
+- Not feeling well
+- Should read db rather than JSON file
+- Plan for the future
+
 # Friday 17 June 2022
 
 - [CoCreate-kanban](https://cocreate.app/docs/kanban)
