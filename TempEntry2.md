@@ -1,3 +1,9 @@
+# Sunday 19 June 2022
+
+- Should focus on [Twitter Archive Reader](https://github.com/alkihis/twitter-archive-reader/blob/master/Examples.md#Countthenumberofretweetsinarchive)
+- [Twitter Analyzer](https://github.com/gedankenstuecke/twitter-analyser/blob/master/INSTALL.md) seems to be too complicated
+
+
 # Saturday 18 June 2022
 
 - 1 BTC = $19,000
