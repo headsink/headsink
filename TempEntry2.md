@@ -2,6 +2,8 @@
 
 - Should focus on [Twitter Archive Reader](https://github.com/alkihis/twitter-archive-reader/blob/master/Examples.md#Countthenumberofretweetsinarchive)
 - [Twitter Analyzer](https://github.com/gedankenstuecke/twitter-analyser/blob/master/INSTALL.md) seems to be too complicated
+- [JsonSam](https://openbase.com/python/jsonsam) seems useful.
+- Remember to do things incrementally
 
 
 # Saturday 18 June 2022
