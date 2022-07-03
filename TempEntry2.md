@@ -1,6 +1,7 @@
 # Sunday 3 July 2022
 
 - [Tailblock](https://tailblocks.cc/) UI Footer example is simply one of the best!
+- Don't forget to check out my [Tailwind Header](https://codepen.io/headsink/pen/xxWGjRB) at codepen.io
 
 
 # Sunday 19 June 2022
