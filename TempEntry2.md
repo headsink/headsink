@@ -1,3 +1,7 @@
+# Wednesday 13 July 2022
+
+- EAT THE FROG!
+
 # Sunday 3 July 2022
 
 - [Tailblock](https://tailblocks.cc/) UI Footer example is simply one of the best!
