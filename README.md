@@ -13,6 +13,13 @@ Ignore entire directories, just by including their paths and putting a / on the 
 ```
 parent/node_modules/
 ```
+# Error updating Gem in Windows 10?
+
+I had error when I was updating it, my only problem was not adding --system at the end...
+
+```
+gem update --system
+```
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&cover_image=true&theme=default&bar_color=b14e5d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&redirect=true)
 
