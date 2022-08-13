@@ -1,3 +1,7 @@
+# Saturday 13 August 2022
+
+I haven't updated this for a very long time. I finally have access to Dall-E 2 and dabbling with it. Right now I need enough sleep and wake up very early so my brain can function more. Staying up at night doesn't work like it use to be.
+
 # Wednesday 13 July 2022
 
 - EAT THE FROG!
