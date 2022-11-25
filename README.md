@@ -11,7 +11,7 @@
 
 Ignore entire directories, just by including their paths and putting a / on the end:
 ```
-parent/node_modules/
+node_modules/
 ```
 # Error updating Gem in Windows 10?
 
