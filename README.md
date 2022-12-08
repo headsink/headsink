@@ -31,7 +31,7 @@ gem update --system
           B --> G[/Another/]
           C ==>|One| D[Laptop]
           C -->|Two| E[iPhone]
-          C -->|Three| F[fa:fa-car Car]
+          C -->|Three| F[fa:fa-house House]
           subgraph section
             C
             D
