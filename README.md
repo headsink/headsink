@@ -13,6 +13,16 @@ Ignore entire directories, just by including their paths and putting a / on the 
 ```
 node_modules/
 ```
+
+---
+
+# Useful Free Resources in Github
+
+1. https://github.com/ripienaar/free-for-dev - list is only for as-a-Service offerings with FREE tier
+2. https://github.com/EbookFoundation/free-programming-books - FREE DEV E-BOOKS
+3. https://github.com/ryanmcdermott/clean-code-javascript
+4. https://github.com/Alaev/design-resources-for-developers - Important design resource for DEV
+
 # Error updating Gem in Windows 10?
 
 I had error when I was updating it, my only problem was not adding --system at the end...
