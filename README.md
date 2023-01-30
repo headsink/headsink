@@ -22,6 +22,9 @@ node_modules/
 2. https://github.com/EbookFoundation/free-programming-books - FREE DEV E-BOOKS
 3. https://github.com/ryanmcdermott/clean-code-javascript
 4. https://github.com/Alaev/design-resources-for-developers - Important design resource for DEV
+5. https://github.com/leonardomso/33-js-concepts - 33 JS Concepts
+6. https://github.com/trekhleb/javascript-algorithms - JavaScript Algorithms
+7. https://github.com/Asabeneh/30-Days-Of-JavaScript - 30 Days of JavaScript
 
 # Error updating Gem in Windows 10?
 
