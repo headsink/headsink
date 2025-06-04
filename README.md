@@ -34,7 +34,6 @@ I had error when I was updating it, my only problem was not adding --system at t
 gem update --system
 ```
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&cover_image=true&theme=default&bar_color=b14e5d&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=1276520269&redirect=true)
 
 ```mermaid
 %%{init: {'theme':'base'}}%%
@@ -54,11 +53,13 @@ gem update --system
           end
 ```
 
-- 🔭 I’m currently working on ... [something](TempEntry.md)
-- 🌱 I’m currently learning ... NextJS, Astro, Moralis, ...more Frontend
-- 👯 I’m looking to collaborate on ... when you meet me.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything in Twitter(active there)
-- 📫 How to reach me: @ Twitter most of the time
+- 🔭 I’m currently working on ... Rust
+- 🌱 I’m currently learning ... Rust
+- 👯 I’m looking to collaborate on ... Rust
+- 🤔 I’m looking for help with ... Rust
+- 💬 Ask me about anything? I'm not avaiable
+- 📫 How to reach me: E-Mail me on Gmail
 - 😄 Important design resource: https://github.com/Alaev/design-resources-for-developers
 - ⚡ Fun fact: ...
+
+- Archived... [something](TempEntry.md)
