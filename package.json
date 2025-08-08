@@ -3,6 +3,6 @@
     "markdown-link-extractor": "4.0.2"
   },
   "devDependencies": {
-    "markdown-link-check": "3.11.2"
+    "markdown-link-check": "3.13.7"
   }
 }
