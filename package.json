@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "markdown-link-extractor": "4.0.2"
+    "markdown-link-extractor": "4.0.3"
   },
   "devDependencies": {
     "markdown-link-check": "3.14.1"
